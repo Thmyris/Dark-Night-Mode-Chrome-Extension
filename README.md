@@ -10,3 +10,4 @@ Note to Developers : If you are planning to modify this code, then I suggest to 
 To-do-List:
 - Increase contrast
 - Try to make code not lose its syntax highlighting.
+- Add an option to always use dark mode on a website.
